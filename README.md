@@ -14,8 +14,6 @@ This extension contributes the following command:
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 0.0.1
 
 First release of gitlogp
