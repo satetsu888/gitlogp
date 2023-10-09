@@ -4,11 +4,13 @@ export function activate(context: vscode.ExtensionContext) {
 	let disposable = vscode.commands.registerCommand('gitlogp.terminal', () => {
 		const editor = vscode.window.activeTextEditor;
         if (!editor) {
+			vscode.window.showWarningMessage('no current editor');
             return;
         }	
 
 		const currentFilePath = editor.document.uri.path;
 		if (currentFilePath === undefined) {
+			vscode.window.showWarningMessage('no current file');
 			return;
 		}
 
