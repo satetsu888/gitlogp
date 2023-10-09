@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "gitlogp.terminal",
-        "title": "Gitlogp: show git log -p [current file] in terminal"
+        "title": "Gitlogp: git log -p current file in terminal"
       }
     ]
   },
