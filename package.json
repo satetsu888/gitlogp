@@ -2,7 +2,7 @@
   "name": "gitlogp",
   "displayName": "gitlogp",
   "description": "Show git log patch text for file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "satetsu888",
   "engines": {
     "vscode": "^1.83.0"

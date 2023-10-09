@@ -14,6 +14,10 @@ This extension contributes the following command:
 
 ## Release Notes
 
-### 0.0.1
+### v0.0.2
 
-First release of gitlogp
+Add warning message when editor is not opened
+
+## v0.0.1
+
+First release of gitlogp :tada:
