@@ -11,6 +11,9 @@
     "Other"
   ],
   "icon": "images/icon.png",
+  "sponsor": {
+    "url": "https://www.buymeacoffee.com/satetsu888"
+  },
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
